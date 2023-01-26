@@ -34,6 +34,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 
 {% comment %}
 Link to customization guide:<a href="https://carpentries.github.io/workshop-template/customization/index.html">customize</a>
+{% endcomment %}
 
 {% comment %}
 Check DC curriculum
